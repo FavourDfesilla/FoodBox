@@ -1,0 +1,158 @@
+*{
+    padding: none;
+    margin: none;
+}
+
+.nav-text{
+    font-style: normal;
+
+}
+.nav{
+    display: flex;
+    padding-top: 20px;
+    margin-left: 50px;
+}
+.victorya{
+    margin: 0;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, serif;
+    color: rgba(64, 6, 112, 0.938);
+    font-style: italic;
+    }
+    .good-food{
+        margin: 50px;
+        color: rgb(50, 50, 109);
+        font-size: 40px;
+    }
+    .powerful{
+        margin-left: 50px;
+        color: rgb(50, 50, 109);
+
+    }
+    .btn-order{
+        margin-left: 50px;
+        color: white;
+        background-color: orangered;
+        border: orangered;
+        padding: 10px;
+        margin-top: 20px;
+        box-shadow: 3px 4px 3px 3px orangered;
+    }
+    span{
+       margin-left: 20px;
+          }
+          .fa-play-circle{
+              color: white;background-color: orangered;
+              padding: 5px;
+              border-radius: 50px;
+          }
+          .part-two{
+              display: flex;
+          }
+          .img1 img{
+              height: 450px;
+              border-bottom-right-radius: 30px ;
+              margin-top: 20px;
+              margin-left: 50px;
+              box-shadow: 2px 2px 20px 3px rgb(216, 213, 213);
+          }
+          .img1-text{
+              /* margin-left: 45px; */
+          }
+          .best{
+            margin: 50px;
+            color: rgb(50, 50, 109);
+            font-size: 30px;
+          }
+          .lorem1{
+            margin: 50px;
+            color: rgb(50, 50, 109);
+            font-size: 20px;
+          }
+          .order1{
+            margin-left: 50px;
+            color: white;
+        background-color: orangered;
+        border: orangered;
+        padding: 10px;
+        margin-top: 5px;
+        box-shadow: 2px 3px 2px 2px orangered;
+          }
+          .comfort{
+              margin-top: 50px;
+              display: flex;
+          }
+          .greens{
+                margin: 50px;
+                color: rgb(50, 50, 109);
+                font-size: 30px;
+          }
+       .images{
+        display: grid;
+        grid-template-columns: auto auto;
+    }
+        .lorem2{
+            margin: 50px;
+            color: rgb(50, 50, 109);
+            font-size: 20px;
+        }
+        .explore{
+            margin: 50px;
+            color: rgb(50, 50, 109);
+            font-size: 30px;
+        }
+        .lour{
+            margin: 50px;
+            color: rgb(50, 50, 109);
+            font-size: 20px;
+        }
+
+        .img2{
+            width: 100px;
+            height: 100px;
+            /* margin-left: 70px;
+            margin-top: 120px;
+            border-radius: 10px; */
+    
+        }
+        
+        .img3{
+            width: 150px;
+           height: 150px;
+           /* border-radius: 10px;
+           margin-left: 10px;
+           margin-top: 40px; */
+
+        }
+        .img4{
+            width: 200px;
+            height: 150px;
+            border-radius: 10px;
+            margin-top: 10px;
+            margin-left: 19px;
+
+        }
+        .img5{
+            width: 150px;
+           height: 150px;
+           margin-top: -20px;
+           border-radius: 10px;
+           margin-left: 10px;
+        }
+
+            /* color: white;
+        background-color: orangered;
+        border: orangered;
+        padding: 10px;
+       margin-right: 50px;
+        box-shadow: 2px 3px 2px 2px orangered; */
+        /* 
+        .video{
+            margin-left: 100px;
+            margin-top: 40px;
+        }
+        .card{
+            display: grid;
+            grid-template-columns: auto auto auto;
+            
+        } */
